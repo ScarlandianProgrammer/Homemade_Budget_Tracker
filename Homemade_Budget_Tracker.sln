@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34310.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homemade_Budget_Tracker.Browser", "Homemade_Budget_Tracker.Browser\Homemade_Budget_Tracker.Browser.csproj", "{C4E582FE-6E6F-4931-A27F-3C532E0BE531}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homemade_Budget_Tracker", "Homemade_Budget_Tracker\Homemade_Budget_Tracker.csproj", "{A2B72E9D-7BE7-4BE2-BCB1-4FF144A3DBB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homemade_Budget_Tracker.Simulator", "Homemade_Budget_Tracker.Simulator\Homemade_Budget_Tracker.Simulator.csproj", "{665767AA-7F6D-4491-880A-74F7871C3FF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homemade_Budget_Tracker.MauiHybrid", "Homemade_Budget_Tracker.MauiHybrid\Homemade_Budget_Tracker.MauiHybrid.csproj", "{6C76CAAC-D682-4A0A-9D55-B504FE518048}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homemade_Budget_Tracker.Photino", "Homemade_Budget_Tracker.Photino\Homemade_Budget_Tracker.Photino.csproj", "{879363D4-38FA-4EBA-B521-4C3DAE33AD6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4E582FE-6E6F-4931-A27F-3C532E0BE531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4E582FE-6E6F-4931-A27F-3C532E0BE531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4E582FE-6E6F-4931-A27F-3C532E0BE531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4E582FE-6E6F-4931-A27F-3C532E0BE531}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2B72E9D-7BE7-4BE2-BCB1-4FF144A3DBB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2B72E9D-7BE7-4BE2-BCB1-4FF144A3DBB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2B72E9D-7BE7-4BE2-BCB1-4FF144A3DBB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2B72E9D-7BE7-4BE2-BCB1-4FF144A3DBB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{665767AA-7F6D-4491-880A-74F7871C3FF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{665767AA-7F6D-4491-880A-74F7871C3FF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{665767AA-7F6D-4491-880A-74F7871C3FF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{665767AA-7F6D-4491-880A-74F7871C3FF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C76CAAC-D682-4A0A-9D55-B504FE518048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C76CAAC-D682-4A0A-9D55-B504FE518048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C76CAAC-D682-4A0A-9D55-B504FE518048}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6C76CAAC-D682-4A0A-9D55-B504FE518048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C76CAAC-D682-4A0A-9D55-B504FE518048}.Release|Any CPU.Build.0 = Release|Any CPU
+		{879363D4-38FA-4EBA-B521-4C3DAE33AD6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{879363D4-38FA-4EBA-B521-4C3DAE33AD6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{879363D4-38FA-4EBA-B521-4C3DAE33AD6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{879363D4-38FA-4EBA-B521-4C3DAE33AD6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CD1F2C6-CC06-4631-9339-BF85F780AFE3}
+	EndGlobalSection
+EndGlobal
